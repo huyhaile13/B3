@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://i.imgur.com/UBvQ5Zq.jpeg</item>
+        <item>https://i.imgur.com/2wwWa48.jpeg</item>
+        <item>https://i.imgur.com/u5OUfBF.jpeg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://i.imgur.com/UYR7Ebe.jpeg</item>
+        <item>https://i.imgur.com/yiNa01J.jpeg</item>
+        <item>https://i.imgur.com/3Sob2HH.jpeg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://i.imgur.com/o4SSQgy.jpeg</item>
+        <item>https://i.imgur.com/WItzSml.jpeg</item>
+        <item>https://i.imgur.com/h5weiUM.jpeg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
